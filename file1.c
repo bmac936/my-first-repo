@@ -1,6 +1,6 @@
 int function1()
 {
-  return 0;
+  return 1;
 }
 
 // made a change
